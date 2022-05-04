@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Newton-Macedo-Fagundes
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning PHP, JavaScript, TypeScript and more!
-- 📫 How to reach me  - newtonmacedo2@gmail.com
+- 🌱 I’m currently specializing in JavaScript, also learning NPM, Yarn, Node, security protocols and more!
+- 📫 How to reach me  - newtonmacedo2@gmail.com or 31 97262-0180 (Whatsapp & phone).
